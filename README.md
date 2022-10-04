@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @fauzanafism
 - 👀 I’m interested in mobile apps development
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me: fauzan137@gmail.com
+- 📫 How to reach me: fauzanafism@gmail.com
 <!--
 **fauzanafism/fauzanafism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
